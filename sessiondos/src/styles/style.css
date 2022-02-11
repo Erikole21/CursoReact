@@ -1,0 +1,35 @@
+.Hero-ironMan{ 
+    display:flex;
+    width: 30%;
+    height: auto;
+    margin: 10px;
+    flex-direction: column;    
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255); 
+    
+
+}
+
+.Hero-thor{ 
+    display:flex;
+    width: 30%;
+    height: auto;
+    margin: 10px;
+    flex-direction: column;
+    background-color: rgb(226, 11, 11);
+    color: rgb(0, 0, 0); 
+    
+
+}
+
+.Hero-programador{ 
+    display:flex;
+    width: 30%;
+    height: auto;
+    margin: 10px;
+    flex-direction: column;
+    background-color: rgb(8, 113, 173);
+    color: rgb(24, 23, 23); 
+    
+
+}
