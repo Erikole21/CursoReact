@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+/sessiondos/node_modules
+/sessionocho/node_modules
+/sessionseis/node_modules
+/sessionsiete/node_modules
+/sessionuno/node_modules
 /.pnp
 .pnp.js
 
